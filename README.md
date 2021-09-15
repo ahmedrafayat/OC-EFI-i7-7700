@@ -1,3 +1,5 @@
+I am open to new version requests now! Post em in "issues"
+
 ![Build Screenshot](Screenshot.png)
 
 ## SPECS
